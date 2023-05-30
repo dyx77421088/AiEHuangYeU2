@@ -1,0 +1,63 @@
+﻿{
+    "data":[
+        {
+            "id": 1001,
+            "name": "茭白",
+            "type": "Food",
+            "quality": "Uncommon",
+            "description": "原产中国及东南亚，是一种较为常见的水生蔬菜。\n或许可以吃",
+            "capacity": 10,
+            "count": 1,
+            "hungerDegree": 25,
+            "moisture": 0,
+            "resistance":0,
+            "collectTime":2.4,
+            "sprite": "Sprites/Collect/food1"
+        },
+        {
+            "id": 1002,
+            "name": "杂草",
+            "type": "Material",
+            "quality": "Common",
+            "description": "一个普通的杂草，可以用来做东西",
+            "capacity": 10,
+            "count": 1,
+            "collectTime":1.1,
+            "sprite": "Sprites/Collect/grass1"
+        },
+        {
+            "id": 1003,
+            "name": "叶子",
+            "type": "Material",
+            "quality": "Common",
+            "description": "一片叶子，多收集一些总是好的",
+            "capacity": 10,
+            "count": 2,
+            "collectTime":1,
+            "sprite": "Sprites/Collect/grass2"
+        },
+        {
+            "id": 1004,
+            "name": "石头",
+            "type": "Material",
+            "quality": "Common",
+            "description": "小石块，可以打造武器",
+            "capacity": 10,
+            "count": 1,
+            "collectTime":0.5,
+            "sprite": "Sprites/Collect/stone1"
+        },
+        {
+            "id": 1005,
+            "name": "木头",
+            "type": "Material",
+            "quality": "Common",
+            "description": "木头，要想发家致富，就得先砍树",
+            "capacity": 10,
+            "count": 1,
+            "collectTime":2,
+            "sprite": "Sprites/Collect/wood1"
+        }
+        
+    ]
+}

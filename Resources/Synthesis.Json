@@ -1,0 +1,53 @@
+﻿{
+    "data":[
+        {
+            "id": 2000,
+            "name": "斧头",
+            "quality": "Uncommon",
+            "description": "一把斧头",
+            "capacity": 1,
+            "count": 1,
+            "collectTime":10,
+            "compositeList":[
+                {
+                    "id":1004,
+                    "count":2
+                },
+                {
+                    "id":1005,
+                    "count":1
+                }
+            ],
+            "type":"Tool",
+            "hungerDegree": 22,
+            "moisture": 10,
+            "strength":20,
+            "sprite": "Sprites/Build/axe"
+        },
+        {
+            "id": 2001,
+            "name": "营地",
+            "quality": "Uncommon",
+            "description": "一个破烂的营地，可以睡觉啥的",
+            "capacity": 1,
+            "count": 1,
+            "collectTime":15,
+            "compositeList":[
+                {
+                    "id":1002,
+                    "count":2
+                },
+                {
+                    "id":1003,
+                    "count":4
+                }
+            ],
+            "type":"Build",
+            "hungerDegree": 50,
+            "moisture": 20,
+            "strength":100,
+            "sprite": "Sprites/Build/yingdi"
+        }
+        
+    ]
+}
